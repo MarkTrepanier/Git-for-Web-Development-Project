@@ -115,7 +115,7 @@
     cd into new git
     branch out //$ git checkout -b firstname-lastname
     work on project
-    add your work to local repo //$ git add .
+    add your work to staging area //$ git add .
     now commit your work 
     //$ git commit -m 'here put in a message to detail the changes the the work'
     now push your work!
